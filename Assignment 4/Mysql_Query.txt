@@ -1,0 +1,35 @@
+Create database smartpotables;
+
+CREATE TABLE UserInfo (
+	UserId int auto_increment not null ,
+    UserName varchar(40) not null,
+    Password varchar(40) not null,
+    Usertype varchar(40) not null,
+    FirstName varchar(40),
+	LastName varchar(40),
+	primary key(UserId,UserName,Usertype));
+
+CREATE TABLE CutomerOrders(OrderId int not null default 0,
+			 UserName varchar(40) not null,
+             Usertype varchar(40) not null,
+             OrderName varchar(150) not null,
+             OrderPrice double not null,
+             Address varchar(200) not null,
+             ZipCode varchar(10)not null,
+             CardNumber varchar(16) not null,
+             IsDelivered int not null default 0,
+             DeliveryDate varchar(20)not null,
+             OrderDate varchar(20)not null,
+	primary key(OrderId,UserName,Usertype));
+	
+	CREATE TABLE Product(Id int not null ,
+			 ProductName varchar(200) not null,
+             Category varchar(40) not null,
+             ProductCondition varchar(10) not null,
+             Manufacturer varchar(40) not null,
+             ProductImage varchar(40) not null,
+			 Quantity int not null default 0,
+             Price double not null,
+             OnSale varchar(10) not null,
+             Rebate varchar(10) not null,
+	primary key(Id,ProductName));   

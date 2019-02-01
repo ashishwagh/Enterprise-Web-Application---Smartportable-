@@ -1,0 +1,70 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Smart Portables</title>
+<link rel="stylesheet" href="styles.css" type="text/css" />
+<link rel="stylesheet"
+	href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" />
+	<link rel="stylesheet"
+	href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" />	
+
+</head>
+<style>
+.carousel-inner>.item>img, .carousel-inner>.item>a>img {
+	width: 80%;
+	margin: auto;
+}
+</style>
+<body>
+<script type = "text/javascript" src="searchjavascript.js"> </script>
+	<div id="container">
+		<header>
+			<h1>
+				<a href="Home">Smart<span>Portables</span></a>
+			</h1>
+			<h2>World's Best Online Smart Portables Device Shopping Market</h2>
+		<div class="search">
+				<form name = "AutoCompleteServlet" action="AjaxAutoCompleteServlet">
+					<div class="row" name="searchbar">
+						<div class="col-md-3"></div>
+						<div class="col-md-6 no-padding">
+							<input
+								type="text"
+								name="searchid"
+								id= "searchid"
+								placeholder="Search Products Here.."
+								onkeyup="doCompletion()"
+								class="search-input"
+								style="width: 400px"/>
+								 
+							<div id="auto-row">
+								<table
+									id="complete-table"
+									class="gridtable"
+									style="position: absolute; width: 100%"></table>
+							</div>
+						</div>
+					</div>
+				</form>
+			</div>
+
+		</header>
+		<nav>
+			<ul>
+				<li class="start selected"><a href="Home">Home</a></li>
+				<li class=""><a href="Myhandler?category=SmartWatches">Wearable Technology</a></li>
+				<li><a href="Myhandler?category=Speakers">Voice Assistant/Smart Speaker</a></li>
+				<li><a href="Myhandler?category=Headphones">Headphones</a></li>
+				<li><a href="Myhandler?category=Phones">Phones</a></li>
+				<li class="end"><a href="Myhandler?category=Laptop">Laptops</a></li>
+				<li><a href="./Trending">Trending</a></li>
+				<li class="cart"><a href="ViewCart">Cart</a></li>
+				<li class="register"><a href="./ViewOrder">ViewOrder</a></li>
+				<li class="login"><a href="./Login">Login</a></li>
+
+			</ul>
+		</nav>
+
+
+		<img src="Html/images/image.jpg" alt="Buildings" />
