@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ProductCatalog>
+    <Product category="SmartWatches" id="001" >
+        <name>Apple Watch Series 1 Smartwatch 38mm Rose Gold </name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>AppleWatch1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Belt</Aname>
+				<Aimage>sw1a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="002" >
+        <name>Apple Watch Series 1 Sport 42mm Space Gray Aluminum Case</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>AppleWatch2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Belt</Aname>
+				<Aimage>sw2a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="003" >
+        <name>Apple Watch Series 3 (GPS) 42mm Space Gray Aluminum </name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>AppleWatch3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Battery</Aname>
+				<Aimage>sw3a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+    <Product category="SmartWatches" id="010" >
+        <name>Apple Smart Watch 38mm Watch Series 2</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>swatch10.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Charger</Aname>
+				<Aimage>sw10a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="004" >
+        <name>Samsung Gear S2 Smartwatch - Dark Gray</name>
+        <condition>New</condition>
+        <manufacturer>Samsung</manufacturer>
+		<image>SamWatch1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Belt</Aname>
+				<Aimage>sw4a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="005" >
+        <name>Samsung Galaxy Gear Smartwatch</name>
+        <condition>New</condition>
+         <manufacturer>Samsung</manufacturer>
+		<image>SW2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Cover</Aname>
+				<Aimage>sw5a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product>
+	<Product category="SmartWatches" id="006" >
+        <name>Samsung Gear Fit2 Smartwatch Large Black</name>
+        <condition>New</condition>
+        <manufacturer>Samsung</manufacturer>
+		<image>SW3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Belt</Aname>
+				<Aimage>sw1a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="007" >
+        <name>LG Smart Watch Urbane 2nd Edition 4G LTE</name>
+        <condition>New</condition>
+        <manufacturer>LG</manufacturer>
+		<image>swatch7.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>MemoryCardDial</Aname>
+				<Aimage>sw7a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="008" >
+        <name>LG Watch Urbane Wearable Smart Watch</name>
+        <condition>New</condition>
+        <manufacturer>LG</manufacturer>
+		<image>swatch8.png</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Belt</Aname>
+				<Aimage>sw8a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="009" >
+        <name>LG Watch Sport Unlocked GSM </name>
+        <condition>New</condition>
+        <manufacturer>LG</manufacturer>
+		<image>swatch9.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+    <Product category="SmartWatches" id="10" >
+        <name>Samsung MDR-V150W</name>
+        <condition>New</condition>
+        <manufacturer>VR</manufacturer>
+		<image>samsungVR.jpeg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+    <Product category="SmartWatches" id="11" >
+        <name>VRPark Virtual Reality, With Headphones</name>
+        <condition>New</condition>
+        <manufacturer>VR</manufacturer>
+		<image>vrparkVR.jpeg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product> 
+	<Product category="SmartWatches" id="12" >
+        <name>Hamilton Virtual Reality</name>
+        <condition>New</condition>
+        <manufacturer>VR</manufacturer>
+		<image>hamiltonVR.jpeg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product>
+	
+	<Product category="SmartWatches" id="13" >
+        <name>Whistle 3 GPS Pet Tracker Activity Monitor</name>
+        <condition>New</condition>
+        <manufacturer>PETTRACKER</manufacturer>
+		<image>Pettracker1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product>
+	<Product category="SmartWatches" id="14" >
+        <name>Hangang Pet Tracker</name>
+        <condition>New</condition>
+        <manufacturer>PETTRACKER</manufacturer>
+		<image>Pettracker2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product>
+	<Product category="SmartWatches" id="15" >
+        <name>NEW Loc8tor Pet Handheld Finder Locator Cat</name>
+        <condition>New</condition>
+        <manufacturer>PETTRACKER</manufacturer>
+		<image>Pettracker3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Stand</Aname>
+				<Aimage>sw9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>PowerCable</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>399</price>
+    </Product>
+	
+	<Product category="Speakers" id="001" >
+        <name>JBL Xtreme 2 Portable Waterproof Wireless Bluetooth Speaker</name>
+        <condition>New</condition>
+        <manufacturer>JBL</manufacturer>
+		<image>jspeaker1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Box</Aname>
+				<Aimage>s1a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product> 
+	<Product category="Speakers" id="002" >
+        <name>JBL Flip 4 Waterproof Portable Bluetooth Speaker</name>
+        <condition>New</condition>
+        <manufacturer>JBL</manufacturer>
+		<image>jspeaker2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Soundbar</Aname>
+				<Aimage>s2a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="003" >
+        <name>JBL Boombox Portable Bluetooth Waterproof Speaker </name>
+        <condition>New</condition>
+        <manufacturer>JBL</manufacturer>
+		<image>jspeaker3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Bluetooth Audio Receiver</Aname>
+				<Aimage>s3a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+    <Product category="Speakers" id="004" >
+        <name>Sony XB10 Portable Wireless Speaker with Bluetooth Black</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>sony1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>RCA cable</Aname>
+				<Aimage>s4a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="005" >
+        <name>Sony GTKXB90 High Power Portable Bluetooth Speaker</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>speaker3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Wall Mounts</Aname>
+				<Aimage>s5a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="006" >
+        <name>Sony SRS-XB21 Portable Wireless Bluetooth Speaker Blue</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>speaker4.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Plugs</Aname>
+				<Aimage>s6a1.png</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="007" >
+        <name>Sony SSCS5 3-Way 3-Driver Bookshelf Speaker System (Black)</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>sony4.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>wall bracket</Aname>
+				<Aimage>s7a1.png</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="008" >
+        <name>Beats Solo3 Wireless Speakers</name>
+        <condition>New</condition>
+        <manufacturer>Beats</manufacturer>
+		<image>speaker8.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Box</Aname>
+				<Aimage>s8a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="009" >
+        <name>Beats by Dr. Dre Beatbox Portable</name>
+        <condition>New</condition>
+        <manufacturer>Beats</manufacturer>
+		<image>bspeaker1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Power Plug</Aname>
+				<Aimage>s9a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Speakers" id="010" >
+        <name>Beats Pill 2.0 Portable Speaker - Red</name>
+        <condition>New</condition>
+        <manufacturer>Beats</manufacturer>
+		<image>bspeaker2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Car Speaker Selector</Aname>
+				<Aimage>s10a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>spe2.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>149</price>
+    </Product>
+	<Product category="Headphones" id="001" >
+        <name>Sennheiser HD1 Wireless Headphones with Active Noise Cancellation - Black</name>
+        <condition>New</condition>
+        <manufacturer>Sennheiser</manufacturer>
+		<image>hp7.jpeg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Extra Earbuds</Aname>
+				<Aimage>hp1a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Neckband</Aname>
+				<Aimage>hp10a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product> 
+	<Product category="Headphones" id="002" >
+        <name>Sennheiser PXC 550 Wireless – NoiseGard Adaptive Noise Cancelling</name>
+        <condition>New</condition>
+        <manufacturer>Sennheiser</manufacturer>
+		<image>senhp2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Case</Aname>
+				<Aimage>hp2a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Audio bluetooth receiver</Aname>
+				<Aimage>hp9a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="003" >
+        <name>Sennheiser HD 650 Open Back Professional Headphone</name>
+        <condition>New</condition>
+        <manufacturer>Sennheiser</manufacturer>
+		<image>senhp3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Headphone jack</Aname>
+				<Aimage>hp3a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Enclosure</Aname>
+				<Aimage>hp7a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+    <Product category="Headphones" id="004" >
+        <name>Skullcandy Grind On-Ear Headphones with Built-In Microphone</name>
+        <condition>New</condition>
+        <manufacturer>SkullCandy</manufacturer>
+		<image>skull1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Earbuds</Aname>
+				<Aimage>hp4a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Standmount</Aname>
+				<Aimage>hp6a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="005" >
+        <name>Skullcandy Grind TAP Headphones</name>
+        <condition>New</condition>
+        <manufacturer>SkullCandy</manufacturer>
+		<image>skull2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Eartips</Aname>
+				<Aimage>hp5a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Earbuds</Aname>
+				<Aimage>hp4a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="006" >
+        <name>Skullcandy Hesh 2 Over-Ear Headphones with Mic White</name>
+        <condition>New</condition>
+        <manufacturer>SkullCandy</manufacturer>
+		<image>skull3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Standmount</Aname>
+				<Aimage>hp6a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Earbuds</Aname>
+				<Aimage>hp4a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="007" >
+        <name>Skullcandy Crusher Headphones with Built-in Amplifier and Mic</name>
+        <condition>New</condition>
+        <manufacturer>SkullCandy</manufacturer>
+		<image>hp7.jpeg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Enclosure</Aname>
+				<Aimage>hp7a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Headphone jack</Aname>
+				<Aimage>hp3a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="008" >
+        <name>Sony MDRZX110/BLK ZX Series Stereo</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>hp5.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Portable charger</Aname>
+				<Aimage>hp8a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="009" >
+        <name>Sony MDRXB650BT/B Extra Bass Bluetooth </name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>hp6.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Audio bluetooth receiver</Aname>
+				<Aimage>hp9a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Case</Aname>
+				<Aimage>hp2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Headphones" id="010" >
+        <name>Sony MDRZX110NC Noise Cancelling Headphones</name>
+        <condition>New</condition>
+        <manufacturer>Sony</manufacturer>
+		<image>hp10.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Neckband</Aname>
+				<Aimage>hp10a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Extra Earbuds</Aname>
+				<Aimage>hp1a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>99</price>
+    </Product>
+	<Product category="Phones" id="001" >
+        <name>Apple iPhone X Fully Unlocked 5.8 256 GB - Space Gray</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>applex.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>cover</Aname>
+				<Aimage>p1a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>499</price>
+    </Product> 
+	<Product category="Phones" id="002" >
+        <name>Apple iPhone 6S 64GB GSM Unlocked Rose Gold</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>apple6s.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>tempered glass</Aname>
+				<Aimage>p2a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>499</price>
+    </Product>
+	<Product category="Phones" id="003" >
+        <name>Apple iPhone 6 GSM Unlocked 16 GB - Gold</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>apple6.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>charger</Aname>
+				<Aimage>p3a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+    <Product category="Phones" id="004" >
+        <name>OnePlus 5 A5000 Gray 6GB RAM 64 GB - 5.5 inch</name>
+        <condition>New</condition>
+        <manufacturer>OnePlus</manufacturer>
+		<image>oneplus1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>cord</Aname>
+				<Aimage>p4a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Phones" id="005" >
+        <name>OnePlus 2 A2005 Unlocked 4G LTE 5.5 Smartphone 64GB </name>
+        <condition>New</condition>
+        <manufacturer>OnePlus</manufacturer>
+			<image>oneplus2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>touch</Aname>
+				<Aimage>p5a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Phones" id="006" >
+        <name>OnePlus 3 A3000 64GB Graphite 5.5 Dual Sim</name>
+        <condition>New</condition>
+        <manufacturer>OnePlus</manufacturer>
+		<image>oneplus3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>edge</Aname>
+				<Aimage>p6a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+    <Product category="Phones" id="007" >
+        <name>OnePlus 3 A3000 64GB Graphite 5.5 Dual Sim</name>
+        <condition>New</condition>
+        <manufacturer>OnePlus</manufacturer>
+		<image>oneplus3t.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>edge</Aname>
+				<Aimage>p6a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Phones" id="008" >
+        <name>Samsung Galaxy J7 Pro</name>
+        <condition>New</condition>
+        <manufacturer>Samsung</manufacturer>
+		<image>phone8.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>hotspot</Aname>
+				<Aimage>p8a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Phones" id="009" >
+        <name>Samsung Galaxy J3 Pro </name>
+        <condition>New</condition>
+        <manufacturer>Samsung</manufacturer>
+		<image>phone9.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>wifi</Aname>
+				<Aimage>p9a1.jpeg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Phones" id="010" >
+        <name>Samsung Galaxy S8 64GB </name>
+        <condition>New</condition>
+        <manufacturer>Samsung</manufacturer>
+		<image>samphone1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>accelerometer</Aname>
+				<Aimage>p10a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>OTP Cable</Aname>
+				<Aimage>es2a1.jpeg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+	<Product category="Laptop" id="001" >
+        <name>Dell 5000 Series 15.6 Inch</name>
+        <condition>New</condition>
+        <manufacturer>Dell</manufacturer>
+		<image>laptop1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>webcam</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Power inverter</Aname>
+				<Aimage>l10a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>799</price>
+    </Product> 
+	<Product category="Laptop" id="002" >
+        <name>2018 Flagship Dell Inspiron Laptop FHD IPS 15.6 Touchscreen</name>
+        <condition>New</condition>
+        <manufacturer>Dell</manufacturer>
+		<image>laptop2.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>power adapter</Aname>
+				<Aimage>l2a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Lap Desk</Aname>
+				<Aimage>l9a1.JPG</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>699</price>
+    </Product>
+	<Product category="Laptop" id="003" >
+        <name>DELL I3565-A453BLK-PUS Dell 15.6 Laptop</name>
+        <condition>New</condition>
+        <manufacturer>Dell</manufacturer>
+		<image>laptop3.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>charger</Aname>
+				<Aimage>l3a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Cooling system</Aname>
+				<Aimage>l8a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>599</price>
+    </Product>
+    <Product category="Laptop" id="004" >
+        <name>2018 HP Touchscreen Premium 15.6 HD Backlit Keyboard Laptop</name>
+        <condition>New</condition>
+        <manufacturer>HP</manufacturer>
+		<image>laptop4.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Remote</Aname>
+				<Aimage>l4a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Briefcase</Aname>
+				<Aimage>l7a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>759</price>
+    </Product>
+	<Product category="Laptop" id="005" >
+        <name>HP Notebook Laptop 15.6 HD</name>
+        <condition>New</condition>
+        <manufacturer>HP</manufacturer>
+		<image>laptop5.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Speaker System</Aname>
+				<Aimage>l5a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Sleeve</Aname>
+				<Aimage>l6a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>799</price>
+    </Product>
+	<Product category="Laptop" id="006" >
+        <name>HP 14-ax040wm Laptop Intel Celeron N3060</name>
+        <condition>New</condition>
+        <manufacturer>HP</manufacturer>
+		<image>laptop6.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Sleeve</Aname>
+				<Aimage>l6a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Speaker System</Aname>
+				<Aimage>l5a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>769</price>
+    </Product>
+	<Product category="Laptop" id="007" >
+        <name>HP Touchscreen 15.6 inch HD Notebook</name>
+        <condition>New</condition>
+        <manufacturer>HP</manufacturer>
+		<image>laptop7.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Briefcase</Aname>
+				<Aimage>l7a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>Remote</Aname>
+				<Aimage>l4a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>979</price>
+    </Product>
+	<Product category="Laptop" id="008" >
+        <name>Apple MacBook Air MJVE2LL/A 13-inch Laptop</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>laptop8.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Cooling system</Aname>
+				<Aimage>l8a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>charger</Aname>
+				<Aimage>l3a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>1049</price>
+    </Product>
+	<Product category="Laptop" id="009" >
+        <name>Apple 13.3 MacBook Air (Silver)</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>mac1.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Lap Desk</Aname>
+				<Aimage>l9a1.JPG</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>power adapter</Aname>
+				<Aimage>l2a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>1099</price>
+    </Product>
+	<Product category="Laptop" id="010" >
+        <name>Apple 15 Inch MacBook Pro Laptop (Retina Display 2.2GHz Intel Core i7)</name>
+        <condition>New</condition>
+        <manufacturer>Apple</manufacturer>
+		<image>laptop10.jpg</image>
+		<Accesories>
+			<Accesory id="1">
+				<Aname>Power inverter</Aname>
+				<Aimage>l10a1.jpg</Aimage>
+			</Accesory>
+			<Accesory id="2">
+				<Aname>webcam</Aname>
+				<Aimage>l1a1.jpg</Aimage>
+			</Accesory>
+		</Accesories>
+        <price>999</price>
+    </Product>
+</ProductCatalog>
