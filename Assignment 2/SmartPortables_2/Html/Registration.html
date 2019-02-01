@@ -1,0 +1,51 @@
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Smart Portables</title>
+<link rel="stylesheet" href="Html/styles.css" type="text/css" />
+</head>
+<body>
+	<div id="content">
+		<h2 align="center" margin-top="60px">Registration Form</h2>
+		<form action="RegistrationParser" method="get">
+			<div class="container username" align="center"
+				style="width: 800px !important;">
+
+				<div class="username">
+					<label><b>First Name</b></label> <input type="text" class="uname"
+						name="firstname" required>
+				</div>
+				<div class="username">
+					<label><b>Last Name</b></label> <input type="text" class="uname"
+						name="lastname" required>
+				</div>
+				<div class="username">
+					<label><b>Username</b></label> <input type="text" class="uname"
+						name="username" required>
+				</div>
+				<div class="username">
+					<label><b>Password</b></label> <input type="password" class="uname"
+						name="password" required>
+				</div>
+
+				<div class="username">
+					<label><b>Re-Password</b></label> <input type="password"
+						class="uname" name="repassword" required>
+				</div>
+				<div class="username">
+					<label><b>User Type</b></label> <select name="usertype"
+						class='uname' style="width: 240px">
+						<option value="Customer">Customer</option>
+						<option value="Manager">Store Manager</option>
+						<option value="Salesman">Salesman</option>
+					</select>
+				</div>
+				<div class="username1">
+					<button class="lbutton" type="submit" value="login">Register</button>
+				</div>
+			</div>
+		</form>
+	</div>
+</body>
+</html>
