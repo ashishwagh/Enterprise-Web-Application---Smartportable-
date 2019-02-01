@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!--
+ Licensed to the Apache Software Foundation (ASF) under one or more
+  contributor license agreements.  See the NOTICE file distributed with
+  this work for additional information regarding copyright ownership.
+  The ASF licenses this file to You under the Apache License, Version 2.0
+  (the "License"); you may not use this file except in compliance with
+  the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+-->
+
+<web-app xmlns="http://java.sun.com/xml/ns/javaee"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://java.sun.com/xml/ns/javaee
+                      http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+  version="3.0"
+  metadata-complete="true">
+
+  <display-name>Welcome to Tomcat</display-name>
+  <description>
+     Welcome to Tomcat
+  </description>
+  
+  
+   <servlet>
+    <servlet-name>Startup</servlet-name>
+    <servlet-class>Startup</servlet-class>
+    <load-on-startup>1</load-on-startup>
+  </servlet>
+  
+  <servlet>
+  <servlet-name>Home</servlet-name>
+  <servlet-class>Home</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Home</servlet-name>
+  <url-pattern>/Home</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>AddCart</servlet-name>
+  <servlet-class>AddCart</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>AddCart</servlet-name>
+  <url-pattern>/AddCart</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>ViewCart</servlet-name>
+  <servlet-class>ViewCart</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewCart</servlet-name>
+  <url-pattern>/ViewCart</url-pattern>
+  </servlet-mapping>
+
+
+<servlet>
+  <servlet-name>Login</servlet-name>
+  <servlet-class>Login</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Login</servlet-name>
+  <url-pattern>/Login</url-pattern>
+  </servlet-mapping>
+
+<servlet>
+  <servlet-name>Payment</servlet-name>
+  <servlet-class>Payment</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Payment</servlet-name>
+  <url-pattern>/Payment</url-pattern>
+  </servlet-mapping>
+  <servlet>
+  <servlet-name>LogoutServlet</servlet-name>
+  <servlet-class>LogoutServlet</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>LogoutServlet</servlet-name>
+  <url-pattern>/LogoutServlet</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>LoginParser</servlet-name>
+  <servlet-class>LoginParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>LoginParser</servlet-name>
+  <url-pattern>/LoginParser</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>RegistrationParser</servlet-name>
+  <servlet-class>RegistrationParser</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>RegistrationParser</servlet-name>
+  <url-pattern>/RegistrationParser</url-pattern>
+  </servlet-mapping>
+ <servlet>
+  <servlet-name>Registration</servlet-name>
+  <servlet-class>Registration</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Registration</servlet-name>
+  <url-pattern>/Registration</url-pattern>
+  </servlet-mapping>
+  
+   <servlet>
+  <servlet-name>Myhandler</servlet-name>
+  <servlet-class>Myhandler</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Myhandler</servlet-name>
+  <url-pattern>/Myhandler</url-pattern>
+  </servlet-mapping>
+  
+  
+   <servlet>
+  <servlet-name>ViewItem</servlet-name>
+  <servlet-class>ViewItem</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewItem</servlet-name>
+  <url-pattern>/ViewItem</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>Utilities</servlet-name>
+  <servlet-class>Utilities</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>Utilities</servlet-name>
+  <url-pattern>/Utilities</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>ProductListHandler</servlet-name>
+  <servlet-class>ProductListHandler</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ProductListHandler</servlet-name>
+  <url-pattern>/ProductListHandler</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  <servlet-name>ViewOrder</servlet-name>
+  <servlet-class>ViewOrder</servlet-class>
+  </servlet>
+  
+  <servlet-mapping>
+  <servlet-name>ViewOrder</servlet-name>
+  <url-pattern>/ViewOrder</url-pattern>
+  </servlet-mapping>
+  
+  	<servlet>
+		<servlet-name>ManagerLogin</servlet-name>
+		<servlet-class>ManagerLogin</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ManagerLogin</servlet-name>
+		<url-pattern>/ManagerLogin</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>UpdateProduct</servlet-name>
+		<servlet-class>UpdateProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>UpdateProduct</servlet-name>
+		<url-pattern>/UpdateProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>SaveUpdatedProduct</servlet-name>
+		<servlet-class>SaveUpdatedProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SaveUpdatedProduct</servlet-name>
+		<url-pattern>/SaveUpdatedProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>WriteReview</servlet-name>
+		<servlet-class>WriteReview</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>WriteReview</servlet-name>
+		<url-pattern>/WriteReview</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>SubmitReview</servlet-name>
+		<servlet-class>SubmitReview</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SubmitReview</servlet-name>
+		<url-pattern>/SubmitReview</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<servlet-name>ViewReview</servlet-name>
+		<servlet-class>ViewReview</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ViewReview</servlet-name>
+		<url-pattern>/ViewReview</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>Trending</servlet-name>
+		<servlet-class>Trending</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Trending</servlet-name>
+		<url-pattern>/Trending</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DataAnalytics</servlet-name>
+		<servlet-class>DataAnalytics</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DataAnalytics</servlet-name>
+		<url-pattern>/DataAnalytics</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>FindReviews</servlet-name>
+		<servlet-class>FindReviews</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>FindReviews</servlet-name>
+		<url-pattern>/FindReviews</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DataVisualization</servlet-name>
+		<servlet-class>DataVisualization</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DataVisualization</servlet-name>
+		<url-pattern>/DataVisualization</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>ShowAddProduct</servlet-name>
+		<servlet-class>ShowAddProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ShowAddProduct</servlet-name>
+		<url-pattern>/ShowAddProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>AddProduct</servlet-name>
+		<servlet-class>AddProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>AddProduct</servlet-name>
+		<url-pattern>/AddProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>Inventory</servlet-name>
+		<servlet-class>Inventory</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Inventory</servlet-name>
+		<url-pattern>/Inventory</url-pattern>
+	</servlet-mapping>
+  
+  	<servlet>
+		<servlet-name>InventoryBarChart</servlet-name>
+		<servlet-class>InventoryBarChart</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>InventoryBarChart</servlet-name>
+		<url-pattern>/InventoryBarChart</url-pattern>
+	</servlet-mapping>
+	
+	 <servlet>
+		<servlet-name>InventoryOnSale</servlet-name>
+		<servlet-class>InventoryOnSale</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>InventoryOnSale</servlet-name>
+		<url-pattern>/InventoryOnSale</url-pattern>
+	</servlet-mapping>
+  
+  	<servlet>
+		<servlet-name>InventoryRebate</servlet-name>
+		<servlet-class>InventoryRebate</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>InventoryRebate</servlet-name>
+		<url-pattern>/InventoryRebate</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>InventoryBarChartController</servlet-name>
+		<servlet-class>InventoryBarChartController</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>InventoryBarChartController</servlet-name>
+		<url-pattern>/InventoryBarChartController</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>Sales</servlet-name>
+		<servlet-class>Sales</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>Sales</servlet-name>
+		<url-pattern>/Sales</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>SalesBarChart</servlet-name>
+		<servlet-class>SalesBarChart</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SalesBarChart</servlet-name>
+		<url-pattern>/SalesBarChart</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>SalesDailyReport</servlet-name>
+		<servlet-class>SalesDailyReport</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SalesDailyReport</servlet-name>
+		<url-pattern>/SalesDailyReport</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>SalesBarChartController</servlet-name>
+		<servlet-class>SalesBarChartController</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>SalesBarChartController</servlet-name>
+		<url-pattern>/SalesBarChartController</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>AjaxUtilities</servlet-name>
+		<servlet-class>AjaxUtilities</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>AjaxUtilities</servlet-name>
+		<url-pattern>/AjaxUtilities</url-pattern>
+	</servlet-mapping>
+
+	<servlet>
+		<servlet-name>ViewSearchProduct</servlet-name>
+		<servlet-class>ViewSearchProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ViewSearchProduct</servlet-name>
+		<url-pattern>/ViewSearchProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>ShowUpdateProduct</servlet-name>
+		<servlet-class>ShowUpdateProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ShowUpdateProduct</servlet-name>
+		<url-pattern>/ShowUpdateProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>ShowDeleteProduct</servlet-name>
+		<servlet-class>ShowDeleteProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>ShowDeleteProduct</servlet-name>
+		<url-pattern>/ShowDeleteProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DeleteProduct</servlet-name>
+		<servlet-class>DeleteProduct</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DeleteProduct</servlet-name>
+		<url-pattern>/DeleteProduct</url-pattern>
+	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>DealMatchesUtilities</servlet-name>
+		<servlet-class>DealMatchesUtilities</servlet-class>
+	</servlet>
+
+	<servlet-mapping>
+		<servlet-name>DealMatchesUtilities</servlet-name>
+		<url-pattern>/DealMatchesUtilities</url-pattern>
+	</servlet-mapping>
+	
+</web-app>
